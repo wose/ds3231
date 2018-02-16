@@ -4,8 +4,8 @@
 
 ## TODO
 
-- [ ] read date/time
-- [ ] set date/time
+- [X] read date/time
+- [X] set date/time
 - [ ] set alarms
 - [ ] 12/24-hour format
 - [ ] enable/disable oscillator
@@ -14,6 +14,7 @@
 - [ ] trigger temperature conversion
 - [ ] aging offset
 - [X] read temperature
+- [ ] handle negative temperature
 
 ## License
 
